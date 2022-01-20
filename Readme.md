@@ -1,10 +1,10 @@
 #Alin-Nita
 <p>
-Hello there 👋 , I'm Alin
-    
+Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
+</p>    
     <h3 align='left'>
-    Connect with me<br/><br/>
-</h3>
+   Let's connect
+    </h3>
 <p align='left'>
     <a href="https://www.linkedin.com/in/alin-nita-b69288207/" target="_blank">
        <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
