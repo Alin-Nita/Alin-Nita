@@ -1,6 +1,16 @@
 #Alin-Nita
 <p>
 Hello there 👋 , I'm Alin
+    
+    <h3 align='left'>
+    Connect with me<br/><br/>
+</h3>
+<p align='left'>
+    <a href="https://www.linkedin.com/in/alin-nita-b69288207/" target="_blank">
+       <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
+<br/><br/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 <h3 align='left'>
