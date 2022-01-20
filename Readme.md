@@ -1,4 +1,4 @@
-#Alin-Nita
+<h3>#Alin-Nita</h3>
 <p>
 Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 </p>    
