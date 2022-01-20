@@ -1,5 +1,5 @@
 #Alin-Nita
-
+Hello there 👋 , I'm Alin
 <img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 
 ### Github Streaks
