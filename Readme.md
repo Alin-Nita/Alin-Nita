@@ -10,6 +10,7 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
        <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+<br/><br/>
   <hr>
 <br/><br/>
 </p>
