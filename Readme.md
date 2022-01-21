@@ -5,18 +5,19 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
     <h3 align='left'>
    Let's connect 🔗
     </h3>
-    <hr>
-<p align='left'>
+  <p align='left'>
     <a href="https://www.linkedin.com/in/alin-nita-b69288207/" target="_blank">
        <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+  <hr>
 <br/><br/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 <h3 align='left'>
    Check out my Technology Stack ⚡ 🚀 💻
 </h3>
+<hr>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
