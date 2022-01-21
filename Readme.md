@@ -38,5 +38,6 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 ### Github Streaks
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" />
+    <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact" />
 </p>
