@@ -1,7 +1,7 @@
 <h3>#Alin-Nita</h3>
-<p>
+<h2>
 Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
-</p>    
+</h2>    
     <h3 align='left'>
    Let's connect 🔗
     </h3>
