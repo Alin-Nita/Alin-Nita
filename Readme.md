@@ -17,7 +17,7 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
    Check out my Technology Stack ⚡ 🚀
 </h3>
 <p align="center">
-    
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
