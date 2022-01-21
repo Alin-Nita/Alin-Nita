@@ -15,10 +15,12 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 <br/><br/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
+
+<hr>
 <h3 align='left'>
    Check out my Technology Stack ⚡ 🚀 💻
 </h3>
-<hr>
+
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
