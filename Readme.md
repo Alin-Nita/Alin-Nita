@@ -13,7 +13,7 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 <br/><br/>
   <hr>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=white" alt="github stats" width="45%" align="center"/>
 
 <hr>
 <h3 align='left'>
