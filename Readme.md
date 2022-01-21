@@ -43,8 +43,20 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 </p>
 
 Interests
-📖 Reading
+<ul>
+    <li>
+ 📖 Reading
+    </li>
+    <li>
 🌲 Nature
+    </li>
+    <li>
 ⚽ Sports
+    </li>
+    <li>
 💻 Coding
+    </li>
+    <li>
 🥙 Food
+    </li>
+</ul>
