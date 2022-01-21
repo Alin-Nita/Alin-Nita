@@ -38,7 +38,7 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alin-Nita&theme=dark" width="48%" />
     <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alin-Nita&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alin-Nita&layout=compact&show_icons=true&theme=gotham" />
 
 
 <hr>
