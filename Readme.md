@@ -41,3 +41,10 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
     <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact" />
 </p>
+
+Interests
+📖 Reading
+🌲 Nature
+⚽ Sports
+💻 Coding
+🥙 Food
