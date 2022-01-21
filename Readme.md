@@ -3,7 +3,7 @@
 Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 </p>    
     <h3 align='left'>
-   Let's connect
+   Let's connect 🔗
     </h3>
 <p align='left'>
     <a href="https://www.linkedin.com/in/alin-nita-b69288207/" target="_blank">
@@ -18,7 +18,6 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 </h3>
 <br>
 <p align="center">
-    ☁
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
