@@ -1,6 +1,7 @@
 <h3>#Alin-Nita</h3>
 <h3>
-      Hello there 👋 , I'm <b>Alin</b> , a Junior Web Developer based in Cheshire
+      Hello there 👋 , I'm <b>Alin</b> , <br>
+      a Junior Web Developer based in Cheshire
 </h3>    
     <h3 align='left'>
    Let's connect 🔗
