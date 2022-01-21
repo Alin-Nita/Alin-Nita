@@ -12,7 +12,6 @@ Hello there 👋 , I'm Alin , a Junior Web Developer based in Cheshire
 </p>
 <br/><br/>
   <hr>
-<br/><br/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Alin-Nita&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 
