@@ -37,7 +37,7 @@
 
 ### Github Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alin-Nita&theme=dark" width="48%" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alin-Nita&theme=dark" width="48%" /> -->
     <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alin-Nita&layout=compact&show_icons=true&theme=gotham" />
 
